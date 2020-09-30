@@ -1,0 +1,4 @@
+node_modules/
+.env
+configs/
+FIRE_DB="https://burj-al-arab-2b3f9.firebaseio.com"
